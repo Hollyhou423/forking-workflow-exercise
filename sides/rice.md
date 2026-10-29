@@ -1,1 +1,5 @@
-How to cook rice.
+## integradients
+rice, water
+
+## instructions
+use a suitable pot
